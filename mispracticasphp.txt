@@ -1,0 +1,6 @@
+en este archivo se trata de lo que haciamos en el php se utilizaba el XXAMP, utilizando etiquetas HTML, en este caso se vieron 
+diferentes tipos de programas, ejercicios se vieron en el punto de venta era como poner nombres, numeros, animales etc. 
+se aprendio a editarlos para crear un nuevo proyecto.
+en el primer ejercicio creamos un codigo que en la pagina decia (hola mundo) en el segundo nos enseñaron las variables de php, 
+ejemplos con nombres en el tecero aprendi la estructura de el if else y elseif.cuarto ejercicio aprendimos que las estructuras 
+repetitivas son similares al lenguaje C, JavaScript, Java y las estructuras
